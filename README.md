@@ -1,2 +1,0 @@
-# AplikasiPerhitunganDiskon
-Tugas 3
